@@ -1,0 +1,19 @@
+{
+  "name": "dht11",
+  "version": "0.0.0",
+  "description": "DHT11 for temp and hum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "movais1"
+  },
+  "author": "M Ovais",
+  "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34",
+    "onoff": "^4.1.1"
+  }
+}
